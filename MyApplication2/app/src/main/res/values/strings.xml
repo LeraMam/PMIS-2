@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TailTales2.0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_fact_1">In the app you can create profiles for each of your dogs.</string>
+    <string name="app_fact_2">You will be able to search and study information about various breeds, including descriptions, characteristics, features and photographs.</string>
+    <string name="app_fact_3">TailTales allows you to track the health and activity of your dogs.</string>
+    <string name="app_fact_4"></string>
+    <string name="app_fact_5"></string>
+</resources>
